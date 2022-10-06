@@ -39,7 +39,7 @@ A <strong>common subsequence</strong> of two strings is a subsequence that is co
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= text1.length, text2.length &lt;= 1000</code></li>
-    <li><code>text1</code> and <code>text2</codee> consist of only lowercase English characters.</li>
+    <li><code>1 &lt;= text1.length, text2.length &lt;= 1000</code></li>
+    <li><code>text1</code> and <code>text2</code> consist of only lowercase English characters.</li>
 </ul>
 </div>
