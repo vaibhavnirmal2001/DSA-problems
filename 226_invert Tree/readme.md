@@ -4,6 +4,7 @@ Given the root of a binary tree, invert the tree, and return its root.
  
 
 Example 1:
+
 ![image](https://user-images.githubusercontent.com/68731756/194722002-50369a85-dbb1-4697-b94c-a45529b3a623.png)
 
 
