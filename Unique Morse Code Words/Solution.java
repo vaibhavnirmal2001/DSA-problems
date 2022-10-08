@@ -1,5 +1,9 @@
-  public int uniqueMorseRepresentations(String[] words) {
-        String[] d = {".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."};
+import java.util.*;
+
+class UniqueMorseCode {
+    public int uniqueMorseRepresentations(String[] words) {
+        String[] d = { ".-", "-...", "-.-.", "-..", ".", "..-.", "--.", "....", "..", ".---", "-.-", ".-..", "--", "-.",
+                "---", ".--.", "--.-", ".-.", "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.." };
         HashSet<String> s = new HashSet<>();
         for (String w : words) {
             StringBuilder sb = new StringBuilder();
@@ -10,3 +14,4 @@
         }
         return s.size();
     }
+}
