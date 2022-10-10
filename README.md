@@ -25,3 +25,5 @@ Add your Solutions of leetcode and gfg Practice with Proper problem descrition i
 
 <br> <br>
 Note:  Add your Solutions of leetcode and gfg Practice with Proper problem description in Redmi.md file and each problem in separate folder
+
+Current Solutions count: 700+
