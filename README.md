@@ -24,3 +24,4 @@ Add your Solutions of leetcode and gfg Practice with Proper problem descrition i
 <img src= "https://github.com/rohansaini886/Hacktoberfest2022/blob/master/.github/images/Email%20Banners-Dark.png" width= "1200"/>
 
 <br> <br>
+Note:  Add your Solutions of leetcode and gfg Practice with Proper problem description in Redmi.md file and each problem in separate folder
