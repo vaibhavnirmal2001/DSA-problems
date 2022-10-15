@@ -15,6 +15,6 @@ In the output, you have to print every board configuration in a new line. Every 
 <strong>Sample Output 1 :</strong>
 0 1 0 0 0 0 0 1 1 0 0 0 0 0 1 0
 0 0 1 0 1 0 0 0 0 0 0 1 0 1 0 0</p>
-<p><strong>Explanation:</strong>
+<p><pre><strong>Explanation:</strong>
 The first and second configuration are shown in the image below. Here, 1 denotes the placement of a queen and 0 denotes an empty cell. Please note that in both the configurations, no pair of queens can kill each other.
-</p>
+</pre></p>
