@@ -1,29 +1,26 @@
+# 128. Longest Consecutive Sequence
 
+Medium
 
+Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
 
-<h1 align="center"> <img src= "https://octodex.github.com/images/original.png" width= "40" /> DSA-hacktoberfest <img src= "https://octodex.github.com/images/original.png" width= "40" /> </h1>
+You must write an algorithm that runs in O(n) time.
 
-# DSA-hacktoberfest
-Add your Solutions of leetcode and gfg Practice with Proper problem descrition in ```Readmi.md``` file and each problem in separate folder for reference look other folder once
+Example 1:
 
-### How to Contribute (Updated)
-- For contributions in this repository, please read `CONTRIBUTING.md` first. (Please pull the changes from this repo if you have already forked the repository and are facing conflicts)
-- If you like the repository, please star it.
-- Try to add more and more Files 📂 
+Input: nums = [100,4,200,1,3,2]
 
-### Learning Resources
+Output: 4
 
-[Creating a pull request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
 
-[Learn the Git basics](https://try.github.io)
+Example 2:
 
+Input: nums = [0,3,7,2,5,8,4,6,0,1]
 
+Output: 9
 
-<div align="center">
+Constraints:
 
-<img src= "https://github.com/rohansaini886/Hacktoberfest2022/blob/master/.github/images/Email%20Banners-Dark.png" width= "1200"/>
-
-<br> <br>
-Note:  Add your Solutions of leetcode and gfg Practice with Proper problem description in Redmi.md file and each problem in separate folder
-
-Current Solutions count: 700+
+* 0 <= nums.length <= 105
+* -109 <= nums[i] <= 109
